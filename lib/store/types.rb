@@ -3,7 +3,7 @@
 
 require "dry/types"
 
-module AppPrototype
+module Store
   module Types
     include Dry.Types
   end
